@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "TeensyInfo, LLC",
+    "enableMultiJS": true,
+    "longName": "wat",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "wat",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "357ee5aa-ec2b-4637-9c82-81aca4854d50",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
